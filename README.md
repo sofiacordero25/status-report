@@ -1,10 +1,11 @@
 # status-report
 
 1. your name
-#sofia cordero
+
+##sofia cordero
 
 2. your section leader's name
-#joanne nichols
+joanne nichols
 
 3. project title
 #"pokedex and pokemon battle simulator"
